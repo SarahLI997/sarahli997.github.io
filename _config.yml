@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "XINGYU (Sarah) LI"
 title_separator          : "-"
 name                     : &name "XINGYU (Sarah) LI"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Quantitative Risk Analyst"
+url                      : https://sarah997li.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarah997li/sarah997li.github.io/.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : #"fosstodon.org/@jayrobw"
 twitter:
   username               : 
 facebook:
@@ -109,7 +109,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xingyulee/"
-  mastodon         : "fosstodon.org/@jayrobw"
+  mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"

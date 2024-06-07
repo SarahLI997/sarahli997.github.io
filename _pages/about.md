@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a quantitative risk analyst @ Natixis.
+Welcome! I am a quantitative risk analyst @ [Natixis CIB](https://cib.natixis.com/home/).
